@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ImpulseDE"]
-	path = ImpulseDE
-	url = https://github.com/yoseflab/impulsede
-	shallow = true
-	registered = true
-[submodule "ImpulseDE2"]
-	path = ImpulseDE2
-	url = https://github.com/yoseflab/impulsede2
-	shallow = true
-	registered = true
 [submodule "LineagePulse"]
 	path = LineagePulse
 	url = https://github.com/yoseflab/lineagepulse
