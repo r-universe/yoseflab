@@ -8,13 +8,3 @@
 	url = https://github.com/yoseflab/lineagepulse
 	shallow = true
 	registered = true
-[submodule "MPRAnalyze"]
-	path = MPRAnalyze
-	url = https://github.com/yoseflab/mpranalyze
-	shallow = true
-	registered = true
-[submodule "scone"]
-	path = scone
-	url = https://github.com/yoseflab/scone
-	shallow = true
-	registered = true
