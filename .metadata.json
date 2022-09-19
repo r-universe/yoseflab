@@ -1,5 +1,11 @@
 [
   {
+    "package": "LineagePulse"
+  },
+  {
+    "package": "MPRAnalyze"
+  },
+  {
     "package": "scone"
   }
 ]
