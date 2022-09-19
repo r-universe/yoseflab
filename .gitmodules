@@ -3,8 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "LineagePulse"]
-	path = LineagePulse
-	url = https://github.com/yoseflab/lineagepulse
+[submodule "scone"]
+	path = scone
+	url = https://github.com/yoseflab/scone
 	shallow = true
 	registered = true
