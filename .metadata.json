@@ -3,9 +3,9 @@
     "package": "LineagePulse"
   },
   {
-    "package": "MPRAnalyze"
+    "package": "scone"
   },
   {
-    "package": "scone"
+    "package": "MPRAnalyze"
   }
 ]
